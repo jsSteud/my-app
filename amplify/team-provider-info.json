@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "infra450b38d7": {}
+        "infra450b38d7": {},
+        "userPoolGroups": {}
       }
     }
   }
